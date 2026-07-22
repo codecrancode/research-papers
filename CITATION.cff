@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these papers, please cite the Zenodo DOI for the release you used, or the citation below."
+title: "Canadian water-policy trilogy: agricultural water pollution, farmland consolidation risk, and cost–benefit incidence"
+version: "1.0.0"
+date-released: "2026-07-21"
+type: dataset
+authors:
+  - family-names: Crandlemire
+    given-names: John
+    email: john@newcopia.ca
+    affiliation: "Independent research, High River, Alberta, Canada"
+license: CC-BY-4.0
+keywords:
+  - water pollution
+  - agriculture
+  - Canada
+  - polluter-pays
+  - farmland consolidation
+  - phosphorus
+  - nutrient management
+abstract: >-
+  Three independent research papers on agricultural water pollution in Canada.
+  Paper 1 estimates fiscal incidence of water-pollution management costs.
+  Paper 2 examines how farmland consolidation raises enforcement and recovery risk
+  for large title holders. Paper 3 frames food-price pass-through and social
+  cost–benefit incidence.
