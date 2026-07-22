@@ -9,13 +9,14 @@ Newcopia Intelligence is disclosed in Acknowledgments only; these papers are ind
 
 ---
 
-## Water-policy trilogy (July 2026)
+## Water-policy series (July 2026)
 
 | File | Title |
 |------|--------|
 | [`water-policy-trilogy/w01-water-pollution-canada.pdf`](water-policy-trilogy/w01-water-pollution-canada.pdf) | Who Actually Pays for Water Pollution in Canada? |
 | [`water-policy-trilogy/w02-consolidation-of-risk.pdf`](water-policy-trilogy/w02-consolidation-of-risk.pdf) | The Consolidation of Risk |
-| [`water-policy-trilogy/w03-ag-water-cost-benefit.pdf`](water-policy-trilogy/w03-ag-water-cost-benefit.pdf) | If Agriculture Paid |
+
+Paper 3 (*If Agriculture Paid*) will be added in a later release.
 
 Cite the Zenodo DOI for the release you downloaded (badge appears here after the first Zenodo-linked GitHub release).
 
