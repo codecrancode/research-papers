@@ -1,0 +1,34 @@
+[
+  {
+    "key": "w01",
+    "doi": "10.5281/zenodo.21500230",
+    "doi_url": "https://doi.org/10.5281/zenodo.21500230",
+    "record_url": "https://zenodo.org/records/21500230",
+    "title": "Who Actually Pays for Water Pollution in Canada? Fiscal Incidence of Agricultural Nutrient Management Costs",
+    "filename": "w01-water-pollution-canada.pdf"
+  },
+  {
+    "key": "w02",
+    "doi": "10.5281/zenodo.21500234",
+    "doi_url": "https://doi.org/10.5281/zenodo.21500234",
+    "record_url": "https://zenodo.org/records/21500234",
+    "title": "The Consolidation of Risk: Farmland Scale, Nutrient Liability, and Enforcement Exposure in Canada",
+    "filename": "w02-consolidation-of-risk.pdf"
+  },
+  {
+    "key": "w03",
+    "doi": "10.5281/zenodo.21500236",
+    "doi_url": "https://doi.org/10.5281/zenodo.21500236",
+    "record_url": "https://zenodo.org/records/21500236",
+    "title": "If Agriculture Paid: Food Prices, Export Competitiveness, and the Adequacy of Canada's Water-Pollution Management Budget",
+    "filename": "w03-ag-water-cost-benefit.pdf"
+  },
+  {
+    "key": "adh",
+    "doi": "10.5281/zenodo.21500239",
+    "doi_url": "https://doi.org/10.5281/zenodo.21500239",
+    "record_url": "https://zenodo.org/records/21500239",
+    "title": "Canada's Adhesive Dependency: Import Concentration and the Adhesive Chemistry of Canada's Forest Products Value Chain",
+    "filename": "canada-adhesive-dependency.pdf"
+  }
+]
